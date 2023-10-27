@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kandar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Spotify Clone**
-
-- 🌱 I’m currently learning **Sequelize, Data Structure**
-
 - 👯 I’m looking to collaborate on **Backend Project**
 
 - 💬 Ask me about **React, Node, Express**
